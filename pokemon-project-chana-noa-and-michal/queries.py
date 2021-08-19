@@ -1,3 +1,6 @@
+"""
+implement functions on the pokemons.
+"""
 
 from config import connection
 
