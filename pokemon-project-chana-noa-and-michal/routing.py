@@ -1,5 +1,7 @@
+"""
+implement the pokemon operations
+"""
 import json
-
 import requests
 
 from config import pokemon_url
@@ -7,7 +9,6 @@ from insertions import insert_query
 from queries import get_id_by_name, delete_pokemon_by_id, update_pokemon
 
 from flask import Response
-
 from config import connection
 
 def get_by_type(type):
