@@ -1,3 +1,6 @@
+"""
+configurate the conect
+"""
 import pymysql
 
 connection = pymysql.connect(
