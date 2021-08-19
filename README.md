@@ -1,5 +1,6 @@
 # pokemon
 🚀 Technologies
+
 The project was developed using Typescript and ReactJS consuming PokéAPI.
 📚 How To Use
 To clone and run this application, we will need NodeJS + Yarn (or NPM) installed.
