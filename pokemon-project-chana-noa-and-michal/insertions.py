@@ -1,3 +1,7 @@
+"""
+insert the pokemons data to database
+"""
+
 import pymysql
 from config import connection
 import json
